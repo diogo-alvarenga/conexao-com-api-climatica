@@ -1,2 +1,1 @@
-# conexao-com-api-climatica
-Conexão com Weather API para informações climaticas em tempo real (necessita de Modulos)
+Necessita da api key, necessario fazer uma conta em https://www.weatherapi.com/
